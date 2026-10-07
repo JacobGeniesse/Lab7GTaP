@@ -1,0 +1,13 @@
+C:\Users\ja154932\source\repos\Method2\bin\Debug\netstandard2.1\Method2.deps.json
+C:\Users\ja154932\source\repos\Method2\bin\Debug\netstandard2.1\Method2.dll
+C:\Users\ja154932\source\repos\Method2\bin\Debug\netstandard2.1\Method2.pdb
+C:\Users\ja154932\source\repos\Method2\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\ja154932\source\repos\Method2\bin\Debug\netstandard2.1\UnityEngine.xml
+C:\Users\ja154932\source\repos\Method2\obj\Debug\netstandard2.1\Method2.csproj.AssemblyReference.cache
+C:\Users\ja154932\source\repos\Method2\obj\Debug\netstandard2.1\Method2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ja154932\source\repos\Method2\obj\Debug\netstandard2.1\Method2.AssemblyInfoInputs.cache
+C:\Users\ja154932\source\repos\Method2\obj\Debug\netstandard2.1\Method2.AssemblyInfo.cs
+C:\Users\ja154932\source\repos\Method2\obj\Debug\netstandard2.1\Method2.csproj.CoreCompileInputs.cache
+C:\Users\ja154932\source\repos\Method2\obj\Debug\netstandard2.1\Method2.csproj.Up2Date
+C:\Users\ja154932\source\repos\Method2\obj\Debug\netstandard2.1\Method2.dll
+C:\Users\ja154932\source\repos\Method2\obj\Debug\netstandard2.1\Method2.pdb
